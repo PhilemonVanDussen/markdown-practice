@@ -1,6 +1,6 @@
 # Web & App Development
 ## PJ VanDussen
-![
+![new_mexico](sm.jpg)
 
 **Spiderman** is my favorite comic book character.
 
