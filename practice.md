@@ -12,7 +12,7 @@ The last word in this sentence has been *italicized*.
 
 [Python Programming with Mosh](https://youtu.be/kqtD5dpn9C8?feature=shared)
 
-`
+```
 age = 17
 print(age)
-`
+```
